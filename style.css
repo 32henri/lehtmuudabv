@@ -1,0 +1,18 @@
+/* style.css */
+/* Valge tekst mustal taustal */
+.bg-dark #text {
+    color: white;
+}
+/* Must tekst valgel taustal */
+.bg-light #text {
+    color: black;
+}
+/* Valge tekst mustal taustal h1 elemendis */
+.bg-dark #h {
+    color: white;
+}
+
+/* Must tekst valgel taustal h1 elemendis */
+.bg-light #h {
+    color: black;
+}
